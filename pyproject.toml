@@ -38,7 +38,7 @@ dependencies = [
     "tiktoken",
     "torchinfo",
     # "sentencepiece",
-    "transformers>=4.50.1",
+    "transformers>=4.40.1",
     "wandb",
     "xarray",
 ]
